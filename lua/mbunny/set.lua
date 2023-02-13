@@ -26,3 +26,5 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.updatetime = 50
 
+vim.g.blamer_enabled = 1
+vim.g.blamer_delay = 200 

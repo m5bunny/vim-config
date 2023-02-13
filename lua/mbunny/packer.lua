@@ -58,4 +58,6 @@ return require('packer').startup(function(use)
 		  {'rafamadriz/friendly-snippets'}, -- Optional
 	  }
   }
+
+  use('APZelos/blamer.nvim')
 end)
