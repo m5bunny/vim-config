@@ -60,4 +60,6 @@ return require('packer').startup(function(use)
   }
 
   use('APZelos/blamer.nvim')
+
+  use('wfxr/minimap.vim')
 end)

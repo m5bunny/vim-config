@@ -30,3 +30,6 @@ vim.opt.updatetime = 50
 vim.g.blamer_enabled = 1
 vim.g.blamer_delay = 200 
 vim.g.blamer_relative_time = 1
+
+-- Minimap.vim settings
+vim.g.minimap_width = 10
